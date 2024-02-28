@@ -37,3 +37,10 @@ def serve():
     stir_gently()
     pour_into_glasses()
     serve()
+    
+    //verify
+    def taste_check():
+      print("Coffee should not be too sweet")
+      print("Coffee should not be too strong")
+      print("Add enough water in mix")
+      
